@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Yonli Aoussi Habiboulaye",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,8 +11,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Habs257/boilerplate-npm"
-	},
-	{
-	"author": "Yonli Aoussi Habiboulaye",
 	}
 }
